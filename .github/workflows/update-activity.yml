@@ -15,7 +15,7 @@ jobs:
         with:
           GITHUB_USERNAME: "adeson33"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          EVENT_LIMIT: 10
+          EVENT_LIMIT: 100
           OUTPUT_STYLE: MARKDOWN
           IGNORE_EVENTS: "[]"
           README_PATH: README.md
