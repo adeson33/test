@@ -1,6 +1,4 @@
 <!--START_SECTION:activity-->
-<<<<<<< HEAD
-=======
 1. 🌍 Made repository [adeson33/test](https://github.com/adeson33/test) public
 2. 🆕 Opened an issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
 3. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579115313)
@@ -101,5 +99,4 @@
 98. 📝 Committed to a private repo
 99. 📝 Committed to a private repo
 100. 📝 Committed to a private repo
->>>>>>> 8f2d0bf4d90648569d79ad26585ba72c67a0241d
 <!--END_SECTION:activity-->
