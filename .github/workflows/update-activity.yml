@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Run Update GitHub Activity
-        uses: ./
+      - name: Github activity-log
+        uses: TheDanniCraft/activity-log@v0.0.6
+            
         with:
           GITHUB_USERNAME: "adeson33"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
